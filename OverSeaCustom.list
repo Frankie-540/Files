@@ -1,0 +1,37 @@
+# 内容：XVIDEOS
+USER-AGENT,*xvideos*
+DOMAIN-KEYWORD,xvideos
+DOMAIN,xvideos.com
+DOMAIN,xvideos-cdn.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xvideos-cdn.com
+
+# 内容：t66y
+USER-AGENT,*t66y*
+DOMAIN-KEYWORD,t66y
+DOMAIN,t66y.com
+DOMAIN-SUFFIX,t66y.com
+
+# 内容：bulianglin
+USER-AGENT,*bulianglin*
+DOMAIN-KEYWORD,bulianglin
+DOMAIN,bulianglin.com
+DOMAIN-SUFFIX,bulianglin.com
+
+# 内容：ossplanet
+USER-AGENT,*ossplanet*
+DOMAIN-KEYWORD,ossplanet
+DOMAIN,mirror.ossplanet.net
+DOMAIN-SUFFIX,mirror.ossplanet.net
+
+# 内容：ftp.ubuntu-tw.org
+DOMAIN,ftp.ubuntu-tw.org
+DOMAIN-SUFFIX,ftp.ubuntu-tw.org
+
+# 内容：DNS
+IP-CIDR,1.0.0.1/32,no-resolve
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,208.67.222.222/32,no-resolve
+IP-CIDR,208.67.220.220/32,no-resolve
